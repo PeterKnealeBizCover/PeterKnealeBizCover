@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-[![wakatime](https://wakatime.com/badge/user/1ee21dc5-c5e1-44ec-aff1-8a6d6e2b5473/project/de394217-e16e-4470-b075-3a8adee67dc2.svg)](https://wakatime.com/badge/user/1ee21dc5-c5e1-44ec-aff1-8a6d6e2b5473/project/de394217-e16e-4470-b075-3a8adee67dc2)
+[![BizCover.Api.Ratings](https://wakatime.com/badge/user/1ee21dc5-c5e1-44ec-aff1-8a6d6e2b5473/project/de394217-e16e-4470-b075-3a8adee67dc2.svg)](https://wakatime.com/badge/user/1ee21dc5-c5e1-44ec-aff1-8a6d6e2b5473/project/de394217-e16e-4470-b075-3a8adee67dc2)
 
 <!---
 PeterKnealeBizCover/PeterKnealeBizCover is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
